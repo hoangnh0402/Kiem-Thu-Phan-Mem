@@ -20,10 +20,6 @@ Repository cho **bài tập lớn môn Kiểm thử phần mềm** tại Đại 
 ├── bookingroom-server-ver1/ # Dịch vụ backend (Spring Boot)
 ├── README.md # Tài liệu mô tả dự án
 
-yaml
-Copy
-Edit
-
 ---
 
 ## ⚙️ Công nghệ sử dụng
